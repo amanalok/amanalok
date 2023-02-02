@@ -2,11 +2,15 @@
 
 ### Introduction
 
-My name is Aman and I am an applied machine learning practitioner. In the past, I have worked for Cactus Communications, Amazon Alexa, Factset Research Systems and Accenture in the field of data engineering and data science.
-I enjoy working on projects about applied mathematical problems related to machine learning and deep learning. I am also passionate about blogging my work and learnings.
+My name is Aman and I am an applied machine learning practitioner. In the past, I have worked for Cactus Communications, Amazon Alexa, Factset Research Systems and Accenture in the field of data engineering and data science. I enjoy working on projects about applied mathematical problems related to machine learning and deep learning.
+
+My career objective is to become a expert level machine learning practitioner, building robust and scalable ML solutions and services.
+
+
+I am also passionate about blogging my work and learnings.
 
 ### Education
-I obtained my Masters degree in Computer Science from State University of New York at Buffalo in Feb 2015. Further, I completed my Bachelors in Information Technology from Jaypee Institue of Information Technology.
+I obtained my Masters degree in Computer Science from State University of New York at Buffalo in Feb 2015. Further, I completed my Bachelors in Information Technology from Jaypee Institue of Information Technology in 2011
 
 ### Relevant Links
 
@@ -19,7 +23,7 @@ I obtained my Masters degree in Computer Science from State University of New Yo
 ### Pinned Github Repositories
 
 * [**Applied NLP**](https://github.com/amanalok/anlp): Contains IPython Notebook and python scripts for small projects on applied nlp and information retrievel.
-* [**FastAI Course**](https://github.com/amanalok/fastai-course) Conatains IPython Notebook and python scripts for projects done as a part of the [FastAI](https://course.fast.ai) course.
+* [**FastAI Course**](https://github.com/amanalok/fastai-course) Contains IPython Notebook and python scripts for projects done as a part of the [FastAI](https://course.fast.ai) course.
 * [**Data Structures & Algorithms In Python**](https://github.com/amanalok/python-dsa) Contains python scripts for implementation of different data structures and algorithms. Further, the repo also contains python scripts for applications build using the standard algorithms and data structures.
 
 <!--
