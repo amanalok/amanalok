@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+#### Introduction
+
+My name is Aman and I am applied machine learning practitioner. In the past, I have worked for Cactus Communications, Amazon Alexa, Factset Research Systems and Accencture in the field of data engineering and data science.
+
+#### Education
+I obtained my Masters degree in Computer Science from State University of New York at Buffalo in Feb 2015. Further, I completed my Bachelors in Information Technology from Jaypee Institue of Information Technology.
+
 <!--
 **amanalok/amanalok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
