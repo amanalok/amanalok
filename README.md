@@ -9,9 +9,10 @@ I enjoy working on projects about applied mathematical problems related to machi
 I obtained my Masters degree in Computer Science from State University of New York at Buffalo in Feb 2015. Further, I completed my Bachelors in Information Technology from Jaypee Institue of Information Technology.
 
 #### Relevant Links
-> [<img src="https://www.kaggle.com/static/images/logos/kaggle-logo-gray-300.png" width="61" height="30">]("https://www.kaggle.com/aman196037/code")
 
-> [<img src="https://brand.linkedin.com/content/dam/me/brand/en-us/brand-home/logos/In-Blue-Logo.png.original.png" width="30" height="30">]("https://www.linkedin.com/in/amanalok/")
+> [<img src="https://www.kaggle.com/static/images/logos/kaggle-logo-gray-300.png" width="61" height="30">](https://www.kaggle.com/aman196037/code)
+
+> [<img src="https://brand.linkedin.com/content/dam/me/brand/en-us/brand-home/logos/In-Blue-Logo.png.original.png" width="30" height="30">](https://www.linkedin.com/in/amanalok/)
 
 > [**My Website**](https://amanalok.gitbook.io/fun/)
 
