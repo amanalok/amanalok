@@ -2,7 +2,7 @@
 
 #### Introduction
 
-My name is Aman and I am an applied machine learning practitioner. In the past, I have worked for Cactus Communications, Amazon Alexa, Factset Research Systems and Accencture in the field of data engineering and data science.
+My name is Aman and I am an applied machine learning practitioner. In the past, I have worked for Cactus Communications, Amazon Alexa, Factset Research Systems and Accenture in the field of data engineering and data science.
 I enjoy working on projects about applied mathematical problems related to machine learning and deep learning. I am also passionate about blogging my work and learnings.
 
 #### Education
@@ -17,6 +17,10 @@ I obtained my Masters degree in Computer Science from State University of New Yo
 > [**My Website**](https://amanalok.gitbook.io/fun/)
 
 #### Pinned Github Repositories
+
+* [**Applied NLP**](https://github.com/amanalok/anlp): Contains IPython Notebook and python scripts for small projects on applied nlp and information retrievel.
+* [**FastAI Course**](https://github.com/amanalok/fastai-course) Conatains IPython Notebook and python scripts for projects done as a part of the [FastAI](https://course.fast.ai) course.
+* [**Data Structures & Algorithms In Python**](https://github.com/amanalok/python-dsa) Contains python scripts for implementation of different data structures and algorithms. Further, the repo also contains python scripts for applications build using the standard algorithms and data structures.
 
 <!--
 **amanalok/amanalok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
