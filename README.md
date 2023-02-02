@@ -10,7 +10,7 @@ My career objective is to become a expert level machine learning practitioner, b
 I am also passionate about blogging my work and learnings.
 
 ### Education
-I obtained my Masters degree in Computer Science from **State University of New York at Buffalo** in Feb 2015. Further, I completed my Bachelors in Information Technology from **Jaypee Institue of Information Technology** in 2011
+I obtained my Masters degree in Computer Science from **State University of New York at Buffalo** in Feb 2015. Before that, I had completed my Bachelors in Information Technology from **Jaypee Institue of Information Technology** in 2011
 
 ### Relevant Links
 
