@@ -2,9 +2,9 @@
 
 ### Introduction
 
-My name is Aman and I am an applied machine learning practitioner. In the past, I have worked for **Cactus Communications**, **Amazon Alexa**, **Factset Research Systems** and **Accenture** in the field of data engineering and data science. I enjoy working on projects about applied mathematical problems related to machine learning and deep learning.
+My name is Aman and I am an applied machine learning practitioner. In the past, I have worked for **Cactus Communications**, **Amazon Alexa**, **Factset Research Systems** and **Accenture** in the field of data science and data engineering. I enjoy working on projects about applied mathematical problems related to machine learning and deep learning.
 
-My career objective is to become a expert level machine learning practitioner, building robust and scalable ML solutions and services.
+My career objective is to become a expert level machine learning practitioner, build robust and scalable ML solutions and services.
 
 
 I am also passionate about blogging my work and learnings.
