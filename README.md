@@ -2,7 +2,7 @@
 
 ### Introduction
 
-My name is Aman and I am a machine learning research engineer. Some of my past employers are **Cactus Communications**, **Amazon Alexa**, **Factset Research Systems** and **Accenture** in the field of machine learning. I enjoy building neural networks.
+My name is Aman and I am a machine learning research engineer. Some of my past employers are **Cactus Communications**, **Amazon Alexa**, **Factset Research Systems** and **Accenture** . I enjoy building neural networks.
 
 ### Education
 I obtained my Masters degree in Computer Science from **State University of New York at Buffalo** in Feb 2015. Before that, I had completed my Bachelors in Information Technology from **Jaypee Institue of Information Technology** in 2011
